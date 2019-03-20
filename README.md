@@ -6,4 +6,4 @@
 *This code can be used to quickly get some information about your PC.*
 
 ## Licence
-*Of course this code hasn't got any licence you have to buy. I made this code in the lessons of Powershell I'm following withing my schoolcourse.*
+*Of course this code hasn't got any licence you have to pay for. I made this code during a lesson of Powershell.*
